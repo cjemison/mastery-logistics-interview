@@ -3,6 +3,7 @@
 # Introduction
 
 [Details for requirements](https://gist.github.com/rmw/fd88d71ca39b525ec855aa198cee3d7e)
+
 [Reference](http://mathworld.wolfram.com/Bin-PackingProblem.html)
 
 ## Build the Code
@@ -34,3 +35,5 @@ Sorting the shipment by capacity first, then sorting the truck containers by siz
 produced the best outcome for being evenly distrubuted. 
 
 [Sort the trucks and shipments](http://localdev:8280/v1/sortFirstFit)
+
+[Swagger Documentation](http://localdev:8280/swagger-ui.html)
